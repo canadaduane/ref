@@ -19,3 +19,8 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 ## Software Engineering
 
 - [Taxonomy of Tech Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
+
+## Economics
+
+- [Vitalik Buterin's Notes on Radical Markets](https://vitalik.ca/general/2018/04/20/radical_markets.html)
+- [Eliezer Yudkowski's Inadequate Equilibria](https://equilibriabook.com)
