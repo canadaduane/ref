@@ -24,3 +24,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 
 - [Vitalik Buterin's Notes on Radical Markets](https://vitalik.ca/general/2018/04/20/radical_markets.html)
 - [Eliezer Yudkowski's Inadequate Equilibria](https://equilibriabook.com)
+
+## Engineering
+
+- [thang's Mechanical Device Animations](https://www.youtube.com/user/thang010146/videos)
