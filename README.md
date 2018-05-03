@@ -20,6 +20,36 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 
 - [Taxonomy of Tech Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 
+## Web Dev Stuff
+
+- [Bulma CSS Framework](https://bulma.io) (see also [miso](https://haskell-miso.org))
+
+## Noteworthy Blockchain Things
+
+- [Circles - Basic Income](https://joincircles.net)
+
+## Learning ReasonML
+
+### Guidance
+- [ReasonML Discourse Forum](https://reasonml.chat)
+- [Exploring ReasonML Book](http://reasonmlhub.com/exploring-reasonml/toc.html)
+- [Redex Package Explorer](https://redex.github.io)
+
+### Reference Material
+- [Bucklescript JS Module Docs](https://bucklescript.github.io/bucklescript/api/Js.html)
+- [Bucklescript Belt Module Docs](https://bucklescript.github.io/bucklescript/api/Belt.html)
+- [ReasonML Docs](https://reasonml.github.io/docs/en/overview.html)
+- [OCaml Libraries in ReasonML](https://reasonml.github.io/api/index.html)
+
+### Source Code to Learn From
+- [Flex(box) Library in ReasonML](https://github.com/jordwalke/flex)
+- [bs-jest Bucklescript Bindings for Jest Test Lib](https://github.com/glennsl/bs-jest)
+- [Real-World Example App](https://github.com/gothinkster/reasonml-realworld-example-app)
+
+### Libraries
+- [Fastpack JS Bundler](https://github.com/fastpack/fastpack)
+- [esy Package Manager for Reason/OCaml](http://esy.sh/docs/en/configuration.html)
+
 ## Economics
 
 - [Vitalik Buterin's Notes on Radical Markets](https://vitalik.ca/general/2018/04/20/radical_markets.html)
