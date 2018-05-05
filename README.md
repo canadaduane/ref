@@ -34,6 +34,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 - [Awesome ReasonML (Link Collection)](https://github.com/vramana/awesome-reasonml)
 - [ReasonML Discourse Forum](https://reasonml.chat)
 - [Exploring ReasonML Book](http://reasonmlhub.com/exploring-reasonml/toc.html)
+- [TEA Chess - Guide to Using Bucklescript-TEA](quernd.github.io/tutorials/tea-chess/index.html)
 
 ### Reference Material
 - [Bucklescript JS Module Docs](https://bucklescript.github.io/bucklescript/api/Js.html)
