@@ -45,6 +45,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 - [Flex(box) Library in ReasonML](https://github.com/jordwalke/flex)
 - [bs-jest Bucklescript Bindings for Jest Test Lib](https://github.com/glennsl/bs-jest)
 - [Real-World Example App](https://github.com/gothinkster/reasonml-realworld-example-app)
+- [Tic Tac Toe Challenge](https://github.com/bsansouci/tic-tac-toe)
 
 ### Libraries
 - [Fastpack JS Bundler](https://github.com/fastpack/fastpack)
