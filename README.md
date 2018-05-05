@@ -31,6 +31,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 ## Learning ReasonML
 
 ### Guidance
+- [Awesome ReasonML (Link Collection)](https://github.com/vramana/awesome-reasonml)
 - [ReasonML Discourse Forum](https://reasonml.chat)
 - [Exploring ReasonML Book](http://reasonmlhub.com/exploring-reasonml/toc.html)
 - [Redex Package Explorer](https://redex.github.io)
