@@ -34,13 +34,16 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 - [Awesome ReasonML (Link Collection)](https://github.com/vramana/awesome-reasonml)
 - [ReasonML Discourse Forum](https://reasonml.chat)
 - [Exploring ReasonML Book](http://reasonmlhub.com/exploring-reasonml/toc.html)
-- [Redex Package Explorer](https://redex.github.io)
 
 ### Reference Material
 - [Bucklescript JS Module Docs](https://bucklescript.github.io/bucklescript/api/Js.html)
 - [Bucklescript Belt Module Docs](https://bucklescript.github.io/bucklescript/api/Belt.html)
 - [ReasonML Docs](https://reasonml.github.io/docs/en/overview.html)
 - [OCaml Libraries in ReasonML](https://reasonml.github.io/api/index.html)
+
+### Tools
+- [Playground](reason-react.surge.sh/playground.html)
+- [Redex Package Explorer](https://redex.github.io)
 
 ### Source Code to Learn From
 - [Flex(box) Library in ReasonML](https://github.com/jordwalke/flex)
