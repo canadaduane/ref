@@ -64,3 +64,4 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 ## Engineering
 
 - [thang's Mechanical Device Animations](https://www.youtube.com/user/thang010146/videos)
+- [3D Printing "Cheat Sheet"](https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/)
