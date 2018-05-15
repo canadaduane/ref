@@ -6,6 +6,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 
 - [Structured Text Tools](https://github.com/dbohdan/structured-text-tools)
 - [Log Navigator](https://lnav.org/)
+- [FZF (Fuzzy Finder)](https://github.com/junegunn/fzf)
 
 ## Machine Learning
 
