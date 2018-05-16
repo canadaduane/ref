@@ -53,6 +53,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 - [bs-jest Bucklescript Bindings for Jest Test Lib](https://github.com/glennsl/bs-jest)
 - [Real-World Example App](https://github.com/gothinkster/reasonml-realworld-example-app)
 - [Tic Tac Toe Challenge](https://github.com/bsansouci/tic-tac-toe)
+- [Pisto POS System][https://github.com/bsommardahl/pisto]
 
 ### Libraries
 - [Fastpack JS Bundler](https://github.com/fastpack/fastpack)
