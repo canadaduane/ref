@@ -24,6 +24,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 ## Web Dev Stuff
 
 - [Bulma CSS Framework](https://bulma.io) (see also [miso](https://haskell-miso.org))
+- [Slate Documentation Generator](https://github.com/lord/slate)
 
 ## Noteworthy Blockchain Things
 
