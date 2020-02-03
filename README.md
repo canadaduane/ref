@@ -59,7 +59,7 @@ Reference to references, e.g. unix tools, ML resources, learning paths, etc
 - [Fastpack JS Bundler](https://github.com/fastpack/fastpack)
 - [esy Package Manager for Reason/OCaml](http://esy.sh/docs/en/configuration.html)
 - [bs-ospec Test Lib](https://github.com/RationalJS/bs-ospec)
-- [Repromise](https://github.com/aantron/repromise/)
+- [reason-promise](https://github.com/aantron/promise)
 
 ## Economics
 
